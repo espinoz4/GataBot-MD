@@ -13,7 +13,7 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["573026191480", '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈
+["573026191480", '𝙊𝙬𝙣𝙚𝙧 🤖🐉', true], //𝙀𝙨𝙥𝙞𝙣𝙤𝙯𝙖𝘽𝙤𝙩-𝙈𝘿 🤖🐉
 ["593968585383"], 
 ["5492266613038"], 
 ["593968263524"],
@@ -124,10 +124,10 @@ global.official = [ // Agregate si eres Owner
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
 global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se aplicará sólo si su whasapp no tiene descripción)
-global.country = '' // Add country, example: 🇪🇨
+global.country = '' // Add country, example: 🇧🇴
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 🐈"
+global.packname = "𝙀𝙨𝙥𝙞𝙣𝙤𝙯𝙖𝘽𝙤𝙩-𝙈𝘿 🤖🐉"
 global.author = "𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
@@ -136,7 +136,7 @@ global.author = "𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨"
 // [EN] > BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
-global.gt = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿"
+global.gt = "𝙀𝙨𝙥𝙞𝙣𝙤𝙯𝙖𝘽𝙤𝙩-𝙈𝘿"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
@@ -162,8 +162,8 @@ global.eg = '╰⊱💚⊱ *𝙀́𝙓𝙄𝙏𝙊 | 𝙎𝙐𝘾𝘾𝙀𝙎�
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨"
-global.igfg = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿"
+global.wm = "𝙀𝙨𝙥𝙞𝙣𝙤𝙯𝙖𝘽𝙤𝙩-𝙈𝘿: 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨"
+global.igfg = "𝙀𝙨𝙥𝙞𝙣𝙤𝙯𝙖𝘽𝙤𝙩-𝙈𝘿"
 global.nomorown = "593993684821"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
